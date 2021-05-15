@@ -4,19 +4,19 @@
 ### About 🙋🏻‍♂️
 ```python
 𝐍𝐀𝐌𝐄 = 𝐒𝐀𝐌𝐄𝐄𝐑 💖
-𝐖𝐇𝐎 𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
+𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
 𝐀𝐆𝐄 = 15 😈
-𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = 🇮🇳
+𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+- 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 
+- 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
+- ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐆
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h4 align="center"><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒💛</b></h4>
 
 ![sameerpanthi Git Stats](https://github-readme-stats.vercel.app/api?username=sameerpanthi&include_all_commits=true&count_private=true&theme=highcontrast)
 
