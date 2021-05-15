@@ -9,8 +9,8 @@ Age = "15"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/SAVAGE SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAVAGE SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+[![telegram badge](https://img.shields.io/badge/SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
