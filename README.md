@@ -3,10 +3,10 @@
 
 ### About 🙋🏻‍♂️
 ```python
-𝐍𝐀𝐌𝐄 = "𝐒𝐀𝐌𝐄𝐄𝐑"
-𝐈𝐍𝐓𝐑𝐄𝐒𝐓 = '𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐂𝐎𝐃𝐈𝐍𝐆':  '❣️'
-𝐀𝐆𝐄 = "15"
-𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇳"
+𝐍𝐀𝐌𝐄 = 𝐒𝐀𝐌𝐄𝐄𝐑 💖
+𝐖𝐇𝐎 𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
+𝐀𝐆𝐄 = 15 😈
+𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = 🇮🇳
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
