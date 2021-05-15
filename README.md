@@ -1,7 +1,8 @@
-
+                     
 ### ⚡ HELLO ⚡
 
 ### About 🙋🏻‍♂️
+
 ```python
 𝐍𝐀𝐌𝐄 = 𝐒𝐀𝐌𝐄𝐄𝐑 💖
 𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
@@ -16,13 +17,16 @@
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
 - ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌
 
-<h4 align="center"><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒💛</b></h4>
+
+<h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
 
 ![sameerpanthi Git Stats](https://github-readme-stats.vercel.app/api?username=sameerpanthi&include_all_commits=true&count_private=true&theme=highcontrast)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpanthi&layout=compact&theme=radical)](https://github.com/sameerpanthi)
 
-### Languages and Tools I Love❤️
+
+### Languages and Tools I Love ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
