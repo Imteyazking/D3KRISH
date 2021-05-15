@@ -10,7 +10,7 @@
 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
