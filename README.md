@@ -4,14 +4,13 @@
 ### About 🙋🏻‍♂️
 
 ```python
-𝐍𝐀𝐌𝐄 = 𝐒𝐀𝐌𝐄𝐄𝐑 💖
+𝐍𝐀𝐌𝐄 = 𝐊𝐑𝐈𝐒𝐇 💖
 𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
-𝐀𝐆𝐄 = 15 😈
 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=D3KRISH&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
@@ -20,10 +19,10 @@
 
 <h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
 
-![sameerpanthi Git Stats](https://github-readme-stats.vercel.app/api?username=sameerpanthi&include_all_commits=true&count_private=true&theme=highcontrast)
+![D3KRISH Git Stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerpanthi&layout=compact&theme=radical)](https://github.com/sameerpanthi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
 
 
 ### Languages and Tools I Love ❤️
