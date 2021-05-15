@@ -12,9 +12,9 @@
 [![telegram badge](https://img.shields.io/badge/SAMEER-30302f?style=for-the-badge&logo=telegram)](https://t.me/SAMEER_795)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-- 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 
+- 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
-- ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐆
+- ⚜️𝐌𝐎𝐒𝐓 𝐎𝐅 𝐌𝐘 𝐑𝐄𝐏𝐎'𝐒 𝐀𝐑𝐄 𝐅𝐎𝐑 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌
 
 <h4 align="center"><b>𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒💛</b></h4>
 
